@@ -2,7 +2,7 @@
 
 ## GNU General Public License
 
-The GNU license applies to the following files. See LICENSE_GNU.md
+The GNU license applies to the following files. See [LICENSE_GNU.md](https://github.com/rebeccasc/IfcTestFiles/blob/d31b51af70fc9a686d94bdd615a7169ff4acc1ad/ifc2X3/LICENSE_GNU.md)
 
 * building/AC11_institute_IFC2X3.ifc
 * building/AC90R1_jasmin_sun_IFC2X3.ifc
@@ -17,6 +17,6 @@ The GNU license applies to the following files. See LICENSE_GNU.md
 
 ## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 
-The Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License applies to the following files. See LICENSE_CC_BY_NC_ND_4.0.md
+The Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License applies to the following files. See [LICENSE_CC_BY_NC_ND_4.0.md](https://github.com/rebeccasc/IfcTestFiles/blob/d31b51af70fc9a686d94bdd615a7169ff4acc1ad/ifc2X3/LICENSE_CC_BY_NC_ND_4.0.md)
 
 * ...
