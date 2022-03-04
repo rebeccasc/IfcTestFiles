@@ -1,9 +1,6 @@
 # IfcTestFiles
-Place to collect ifc test files for development of [BIMtoOSM](https://github.com/rebeccasc/BIMtoOSM) parser.
+Place to collect ifc test files for development. Includes test files for `ifc2X3` and `ifc4`.
 
-## Notes
-
-File extension meaning
-* `BC`: File includes Block Comments
-* `BL`: File includes Blank Lines
+## Licenses
+Different licences apply to different files. Check README placed in the folders.
 
