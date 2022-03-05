@@ -1,0 +1,7 @@
+# Resolved placement of wall_single_with_window_IFC2X3 file     
+# point,value x-coordinate,value y-coordinate 
+0,0.0,0.0
+1,0.0,0.3
+2,5.0,0.3
+3,5.0,0.0
+4,0.0,0.0
