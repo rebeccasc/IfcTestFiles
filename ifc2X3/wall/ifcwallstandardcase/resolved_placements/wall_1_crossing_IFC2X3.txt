@@ -1,14 +1,6 @@
 # Resolved placement of wall_crossing_IFC2X3 file   
 # Unit: meter  
 # Schema: point,value x-coordinate,value y-coordinate, z-coordinate
-#
-# Object Wand-002
-0,9.676,12.731,2.960
-1,1.574,2.376,2.960
-2,1.841,2.166,2.960
-3,9.944,12.521,2.960
-0,9.676,12.731,2.960
-#
 # Object Wand-001
 0,0.893,12.227,2.960
 1,9.449,2.359,2.960
