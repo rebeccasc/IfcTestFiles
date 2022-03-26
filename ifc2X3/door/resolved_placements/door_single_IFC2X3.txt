@@ -1,0 +1,9 @@
+# Resolved placement of door_single_IFC2X3 file   
+# Unit: meter  
+# Schema: point,value x-coordinate,value y-coordinate, z-coordinate
+#
+0,29.919,27.422,38.560
+1,29.929,27.330,38.560
+2,29.018,27.262,38.560
+3,29.011,27.353,38.560
+4,29.919,27.422,38.560
